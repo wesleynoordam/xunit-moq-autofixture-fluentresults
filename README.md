@@ -70,7 +70,7 @@ public class EmployeeRepository : IEmployeeRepository
 }
 ```
 </details>
-<br/><br/>
+<br/>
 
 ## Current Unit test
 
@@ -174,7 +174,7 @@ public class MockEmployeeRepository : IEmployeeRepository
 
 </details>
 
-<br/><br/>
+<br/>
 
 ## Situation
 
